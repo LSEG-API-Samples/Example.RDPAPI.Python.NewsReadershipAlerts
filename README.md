@@ -1,2 +1,2 @@
 # Example.RDPAPI.NewsReadershipAlerts
-News Readership Aerts with SMS Queue
+News Readership Alerts with SMS Queue
